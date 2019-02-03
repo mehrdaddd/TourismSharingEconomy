@@ -1,0 +1,275 @@
+
+.App {
+  text-align: center;
+}
+
+.App-footer {
+  text-align: center;
+  padding-top: 5px;
+}
+
+
+.App-logo {
+
+  float: left;
+  height: 80px;
+
+}
+
+.App-header {
+  background-color: #222;
+  height: 100px;
+  padding: 10px;
+  color: #fff;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+.page {
+  margin: 20px;
+}
+
+.interactions {
+  text-align: center;
+}
+
+.int {
+  text-align: right;
+}
+
+.table {
+  margin: 20px 0;
+  padding: 40px;
+  clear: right;
+}
+
+.table-header {
+  display: flex;
+  line-height: 24px;
+  font-size: 16px;
+  padding: 0 10px;
+  justify-content: space-between;
+}
+.t-header {
+
+}
+
+.table-empty {
+  margin: 200px;
+  text-align: center;
+  font-size: 16px;
+}
+
+.table-row {
+  display: flex;
+  line-height: 24px;
+  white-space: nowrap;
+  margin: 10px 0;
+  padding: 10px;
+  background: #ffffff;
+  border: 1px solid #e3e3e3;
+}
+
+.table-header > span {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  padding: 0 5px;
+}
+
+.table-row > span {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  padding: 0 5px;
+}
+
+.button-inline {
+  border-width: 0;
+  background: transparent;
+  color: inherit;
+  text-align: inherit;
+  -webkit-font-smoothing: inherit;
+  padding: 0;
+  font-size: inherit;
+  cursor: pointer;
+}
+
+.button-active {
+  border-radius: 0;
+  border-bottom: 1px solid #38BB6C;
+}
+
+
+.comment{
+  text-align: left;
+  background-color: rgba(13, 249, 204, 0.11);
+  padding: 5px;
+  padding-left: 20px;
+  color: black;
+  clear: right;
+
+}
+
+.star{
+  float: right;
+  padding: 10px;
+
+}
+
+.ad{
+  padding-top: 150px;
+  margin-top: 40px;
+}
+
+.sider{
+  background-color: #fff;
+  padding-top: 150px;
+  margin: .2px;
+}
+
+.whitt {
+  color: #fff;
+  text-align: center;
+  font-size: 26px;
+
+}
+
+.contentt{
+  background: #fff;
+  padding: 3px;
+  margin: 0;
+  min-height: 280;
+  clear: right;
+}
+
+.items{
+  font-size: 26px;
+}
+
+.navigation
+{
+  float: left;
+}
+
+.userr
+{
+  text-align: left;
+}
+
+
+.buttonn {
+  float: right;
+  text-align: right;
+  margin: 10px;
+}
+.out
+{
+  float: right;
+  text-align: right;
+}
+
+.pages{
+  text-align: center;
+  padding: 50px;
+  margin: 25px;
+}
+
+.loginStyles  {
+  width: 90%;
+  max-width: 350px;
+  margin: 70px auto;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  padding: 10px;
+  min-height: 300px;
+}
+
+
+
+.footer {
+  color: white;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #222;
+  padding: 5px;
+  text-align: right;
+}
+
+.input {
+  margin-bottom: 1rem;
+  display: block;
+}
+
+.textarea {
+  margin-bottom: 1rem;
+  display: block;
+}
+
+.select {
+  margin-bottom: 1rem;
+  display: block;
+}
+
+.contactusm{
+  width: 90%;
+  margin: 50px auto;
+  padding: 35px;
+  font-size: 25px;
+}
+
+.approvation{
+  width: 90%;
+  margin: 50px auto;
+  padding: 35px;
+  font-size: 25px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+}
+.contactuss{
+  width: 100%;
+  margin: 10px auto;
+  padding: 10px;
+  font-size: 25px;
+}
+
+.profiless{
+  width: 100%;
+  margin: 10px auto;
+  padding: 10px;
+  font-size: 25px;
+}
+
+.profilesm{
+  width: 70%;
+  margin: 50px auto;
+  padding: 35px;
+  font-size: 25px;
+}
+
+.addmore{
+  width: 50%;
+  margin: 10px auto;
+  padding: 10px;
+  font-size: 25px;
+}
+
+.paddin{
+  padding: 20px;
+  margin: 50px auto;
+}
+.submit{
+  padding: 10px;
+  margin: 50px auto;
+}
