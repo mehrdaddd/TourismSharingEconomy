@@ -1,0 +1,11 @@
+{ "_id" : { "$oid" : "5c55ff314435982428c42f42" }, "head" : "Flight", "__v" : 302, "company" : [  ] }
+{ "_id" : { "$oid" : "5c544a72a43a07cf7f8951bf" }, "head" : "Accommodation", "__v" : 22, "company" : [  ] }
+{ "_id" : { "$oid" : "5c55ff314435982428c42888" }, "head" : "Tool", "__v" : 27, "company" : [  ] }
+{ "_id" : { "$oid" : "5c55ff315435982428c42888" }, "head" : "other", "__v" : 19 }
+{ "_id" : { "$oid" : "5c55ff315435982428842888" }, "head" : "Multifunctional", "__v" : 22, "company" : [  ] }
+{ "_id" : { "$oid" : "5c55ff445435982428842888" }, "head" : "Information", "__v" : 126, "company" : [  ] }
+{ "_id" : { "$oid" : "5c55ff315435982428842569" }, "head" : "Restaurant", "__v" : 130, "company" : [  ] }
+{ "_id" : { "$oid" : "5c55ff315335982428842888" }, "head" : "Socialmedia", "__v" : 127, "company" : [  ] }
+{ "_id" : { "$oid" : "5c5500315435982428842888" }, "head" : "Taxi", "__v" : 129, "company" : [  ] }
+{ "_id" : { "$oid" : "5c55ff315435772428842888" }, "head" : "Tour", "__v" : 132, "company" : [  ] }
+{ "_id" : { "$oid" : "5c55ff315434482428842888" }, "head" : "Train", "__v" : 130, "company" : [ { "name" : "Seat61", "link" : "https://https://seat61.com", "text" : "The website focuses almost exclusively on train-based travel, with occasional ferry recommendations", "fullname" : "", "email" : "", "_id" : { "$oid" : "5c571f8c4695323910e65f55" }, "rate" : [  ], "commentGroup" : [  ] } ] }
