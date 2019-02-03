@@ -1,13 +1,4 @@
-<<<<<<< HEAD
-Main Repository: https://github.com/mehrdaddd/masterProject.git
 
-https://justgo.herokuapp.com/
-=======
-Main Repository: https://github.com/mehrdaddd/Tourism_Social_Media.git
-
-
-http://www.travelrol.com/
->>>>>>> 9b31392176471d118bb1fe2517b0db1ea52afe95
 
 npm install
 
