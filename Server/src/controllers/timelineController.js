@@ -1,6 +1,6 @@
 import mongoose from 'mongoose';
 
-import { PostSchema} from '../models/PostModel';
+import { PostSchema} from '../models/postModel';
 import { rateSchema} from '../models/rateModel';
 import {CommentGroupSchema} from '../models/commentModel';
 const aprPost = mongoose.model('aprPost', PostSchema);
@@ -16,6 +16,7 @@ export const newPost = (req, res) => {
         res.json(post);
     });
 };
+
 
 export const getPosts = (req, res) => {
     aprPost.find({}, (err, post) => {
